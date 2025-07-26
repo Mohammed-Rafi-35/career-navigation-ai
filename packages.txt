@@ -1,0 +1,2 @@
+pip uninstall -y fitz
+pip install -r requirements.txt
