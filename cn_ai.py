@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 from datetime import datetime
-import fitz
+import pymupdf as fitz
 import docx
 import logging
 from dotenv import load_dotenv
